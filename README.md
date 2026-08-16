@@ -14,7 +14,7 @@
 
 ## 🚀 Live Prototype
 
-### **[▶ Launch NEGU-Edu Portal](YOUR_VERCEL_URL_HERE)**
+### **[▶ Launch NEGU-Edu Portal](https://negu-edu-portal.vercel.app/)**
 
 > **Replace `YOUR_VERCEL_URL_HERE` with the actual deployed Vercel URL before submitting.**
 
