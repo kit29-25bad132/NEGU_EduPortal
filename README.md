@@ -871,8 +871,8 @@ Add the appropriate project license here before public release.
 
 | Resource          | Link                                               |
 | ----------------- | -------------------------------------------------- |
-| 🚀 Live Prototype | **[OPEN LIVE APP](YOUR_VERCEL_URL_HERE)**          |
-| 💻 GitHub         | **[VIEW SOURCE CODE](YOUR_GITHUB_REPOSITORY_URL)** |
+| 🚀 Live Prototype | **[OPEN LIVE APP](https://negu-edu-portal.vercel.app/)**          |
+| 💻 GitHub         | **[VIEW SOURCE CODE](https://github.com/kit29-25bad132/NEGU_EduPortal.git)** |
 | 🏗️ Architecture  | `docs/architecture.md`                             |
 | 📖 Documentation  | `README.md`                                        |
 
