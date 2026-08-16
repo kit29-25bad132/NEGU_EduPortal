@@ -1,0 +1,6 @@
+{
+  "name": "NEGU-EduPortal",
+  "description": "One Campus. One Intelligent Academic Platform. Unified college academic management with smart QR geofence attendance, academics, leave, analytics, and AI-powered student insights.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
